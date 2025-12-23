@@ -165,3 +165,13 @@ h3{
     font-size: 1rem;
     color: #747dbc;
 }
+
+.social ul{
+    list-style-type: none;
+}
+
+.social ul li{
+    display: inline;
+    padding: 1%;
+    font-size: 1rem;
+}
