@@ -6,14 +6,12 @@
 
 .container{
     width:80%;
-    border: 1px solid rebeccapurple;
     margin: 0 auto;
     padding: 1%;
 }
 
 /*Head Section*/
 .logo{
-    border: 1px solid black;
     width: 10%;
     float: left;
 }
@@ -131,7 +129,6 @@ h3{
 
 
 .food-menu-box{
-    border: 1px solid black;
     width: 43%;
     margin: 1%;
     padding: 2%;
